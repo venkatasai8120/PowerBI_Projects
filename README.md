@@ -1,11 +1,11 @@
-# 🎧 Spotify Analysis Dashboard 2024 – Power BI Project
+#  Spotify Analysis Dashboard 2024 – Power BI Project
 
-## 📝 Project Overview  
+##  Project Overview  
 This project presents a **Spotify Analytics Dashboard** built using **Power BI** and enriched with **Python** for API integrations and custom visuals. It provides deep insights into streaming data, artist and track performance, and listener behavior patterns throughout 2024. Special highlights include a **Python-generated heatmap** using Matplotlib & Seaborn, album cover integration using Spotify's Developer API, and interactive Power BI visuals.
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
 - **Interactive Dashboard**: Built in Power BI with dynamic filters for artist, track, and release year.
 - **Custom Python Visuals**: Includes a Matplotlib + Seaborn heatmap for weekly/monthly track usage.
@@ -14,7 +14,7 @@ This project presents a **Spotify Analytics Dashboard** built using **Power BI**
 
 ---
 
-## 📊 Visualizations Included
+##  Visualizations Included
 
 - **Avg Stream Per Year vs Top Song Avg**
 - **Energy Level Indicator Gauge**
@@ -26,12 +26,12 @@ This project presents a **Spotify Analytics Dashboard** built using **Power BI**
 
 ---
 
-## 🖼️ Dashboard Screenshot  
+##  Dashboard Screenshot  
 ![Spotify Dashboard Screenshot](https://github.com/user-attachments/assets/d4cea8dc-c38b-4180-80ee-fff086411ed8)
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |----------|------------|
@@ -44,7 +44,7 @@ This project presents a **Spotify Analytics Dashboard** built using **Power BI**
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 This dashboard is useful for:
 
@@ -55,6 +55,6 @@ This dashboard is useful for:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork, enhance features, or suggest new visualizations.
